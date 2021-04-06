@@ -1,5 +1,5 @@
-// contactController.js
-// Import contact model
+// bookController.js
+// Import book model
 Book = require('./bookModel');
 
 // Handle index actions

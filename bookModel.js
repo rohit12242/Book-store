@@ -1,4 +1,4 @@
-// contactModel.js
+// bookModel.js
 var mongoose = require('mongoose');
 
 // Setup schema
